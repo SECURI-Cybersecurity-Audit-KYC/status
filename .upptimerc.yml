@@ -28,8 +28,12 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://scrl.io/
+    - title: Twitter / X
+      href: https://twitter.com/scrl_io
+    - title: Telegram
+      href: https://t.me/scrl_io
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
