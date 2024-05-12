@@ -7,9 +7,12 @@ sites:
     url: https://scrl.io
   - name: SCRL Live Chat Support
     url: https://chat.scrl.io    
+  - name: Email Support Ticket
+    url: https://support.scrl.io
+  - name: Request Service Form & Incident Report Form
+    url: https://survey.scrl.io
   - name: KYC System
     url: https://kyc.scrl.io
-
 
 status-website:
   theme: light
