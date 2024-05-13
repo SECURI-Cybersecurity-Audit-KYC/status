@@ -88,5 +88,23 @@
     "timeMonth": 3177,
     "timeYear": 3177,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Document Signature System",
+    "url": "https://signdoc.scrl.io",
+    "icon": "https://icons.duckduckgo.com/ip3/signdoc.scrl.io.ico",
+    "slug": "document-signature-system",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1166,
+    "timeDay": 1166,
+    "timeWeek": 1166,
+    "timeMonth": 1166,
+    "timeYear": 1166,
+    "dailyMinutesDown": {}
   }
 ]
