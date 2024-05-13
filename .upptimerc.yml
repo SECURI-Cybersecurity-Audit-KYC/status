@@ -13,6 +13,8 @@ sites:
     url: https://survey.scrl.io
   - name: KYC System
     url: https://kyc.scrl.io
+  - name: Document Signature System
+    url: https://signdoc.scrl.io
 
 status-website:
   theme: light
