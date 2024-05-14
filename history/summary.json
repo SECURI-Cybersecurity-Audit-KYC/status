@@ -22,19 +22,19 @@
     "url": "https://chat.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/chat.scrl.io.ico",
     "slug": "scrl-live-chat-support",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 870,
-    "timeDay": 1040,
-    "timeWeek": 870,
-    "timeMonth": 870,
-    "timeYear": 870,
+    "status": "up",
+    "uptime": "99.10%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
+    "time": 908,
+    "timeDay": 1047,
+    "timeWeek": 908,
+    "timeMonth": 908,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2024-05-14": 0
+      "2024-05-14": 26
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://survey.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/survey.scrl.io.ico",
     "slug": "request-service-form-and-incident-report-form",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1195,
-    "timeDay": 1197,
-    "timeWeek": 1195,
-    "timeMonth": 1195,
-    "timeYear": 1195,
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 1451,
+    "timeDay": 1622,
+    "timeWeek": 1451,
+    "timeMonth": 1451,
+    "timeYear": 1451,
     "dailyMinutesDown": {
-      "2024-05-14": 0
+      "2024-05-14": 26
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://signdoc.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/signdoc.scrl.io.ico",
     "slug": "document-signature-system",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1050,
-    "timeDay": 992,
-    "timeWeek": 1050,
-    "timeMonth": 1050,
-    "timeYear": 1050,
+    "status": "up",
+    "uptime": "98.45%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
+    "time": 1082,
+    "timeDay": 1054,
+    "timeWeek": 1082,
+    "timeMonth": 1082,
+    "timeYear": 1082,
     "dailyMinutesDown": {
-      "2024-05-14": 0
+      "2024-05-14": 26
     }
   }
 ]
