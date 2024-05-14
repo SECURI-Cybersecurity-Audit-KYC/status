@@ -22,18 +22,20 @@
     "url": "https://chat.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/chat.scrl.io.ico",
     "slug": "scrl-live-chat-support",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 929,
-    "timeWeek": 776,
-    "timeMonth": 776,
-    "timeYear": 776,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 870,
+    "timeDay": 1040,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 870,
+    "dailyMinutesDown": {
+      "2024-05-14": 0
+    }
   },
   {
     "name": "Email Support Ticket",
@@ -58,18 +60,20 @@
     "url": "https://survey.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/survey.scrl.io.ico",
     "slug": "request-service-form-and-incident-report-form",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1264,
-    "timeDay": 1404,
-    "timeWeek": 1264,
-    "timeMonth": 1264,
-    "timeYear": 1264,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1195,
+    "timeDay": 1197,
+    "timeWeek": 1195,
+    "timeMonth": 1195,
+    "timeYear": 1195,
+    "dailyMinutesDown": {
+      "2024-05-14": 0
+    }
   },
   {
     "name": "KYC System",
@@ -94,17 +98,19 @@
     "url": "https://signdoc.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/signdoc.scrl.io.ico",
     "slug": "document-signature-system",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1097,
-    "timeDay": 1097,
-    "timeWeek": 1097,
-    "timeMonth": 1097,
-    "timeYear": 1097,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1050,
+    "timeDay": 992,
+    "timeWeek": 1050,
+    "timeMonth": 1050,
+    "timeYear": 1050,
+    "dailyMinutesDown": {
+      "2024-05-14": 0
+    }
   }
 ]
