@@ -1,7 +1,7 @@
 url: https://chat.scrl.io
-status: up
-code: 200
-responseTime: 929
-lastUpdated: 2024-05-13T23:13:41.984Z
+status: down
+code: 502
+responseTime: 1151
+lastUpdated: 2024-05-14T04:45:06.824Z
 startTime: 2024-05-12T05:34:16.495Z
 generator: Upptime <https://github.com/upptime/upptime>
