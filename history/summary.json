@@ -4,18 +4,20 @@
     "url": "https://scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/scrl.io.ico",
     "slug": "scrl-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3490,
-    "timeDay": 4252,
-    "timeWeek": 3490,
-    "timeMonth": 3490,
-    "timeYear": 3490,
-    "dailyMinutesDown": {}
+    "time": 3082,
+    "timeDay": 2241,
+    "timeWeek": 3082,
+    "timeMonth": 3082,
+    "timeYear": 3082,
+    "dailyMinutesDown": {
+      "2024-05-18": 0
+    }
   },
   {
     "name": "SCRL Live Chat Support",
@@ -40,18 +42,20 @@
     "url": "https://support.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/support.scrl.io.ico",
     "slug": "email-support-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 497,
-    "timeDay": 364,
-    "timeWeek": 497,
-    "timeMonth": 497,
-    "timeYear": 497,
-    "dailyMinutesDown": {}
+    "time": 471,
+    "timeDay": 328,
+    "timeWeek": 471,
+    "timeMonth": 471,
+    "timeYear": 471,
+    "dailyMinutesDown": {
+      "2024-05-18": 0
+    }
   },
   {
     "name": "Request Service Form & Incident Report Form",
