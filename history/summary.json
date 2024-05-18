@@ -4,19 +4,19 @@
     "url": "https://scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/scrl.io.ico",
     "slug": "scrl-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3082,
-    "timeDay": 2241,
-    "timeWeek": 3082,
-    "timeMonth": 3082,
-    "timeYear": 3082,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 3130,
+    "timeDay": 2664,
+    "timeWeek": 3130,
+    "timeMonth": 3130,
+    "timeYear": 3130,
     "dailyMinutesDown": {
-      "2024-05-18": 0
+      "2024-05-18": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://support.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/support.scrl.io.ico",
     "slug": "email-support-ticket",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 328,
-    "timeWeek": 471,
-    "timeMonth": 471,
-    "timeYear": 471,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 461,
+    "timeDay": 347,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {
-      "2024-05-18": 0
+      "2024-05-18": 7
     }
   },
   {
