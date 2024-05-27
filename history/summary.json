@@ -24,18 +24,20 @@
     "url": "https://chat.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/chat.scrl.io.ico",
     "slug": "scrl-live-chat-support",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 848,
     "timeDay": 626,
     "timeWeek": 878,
     "timeMonth": 848,
     "timeYear": 848,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-27": 1
+    }
   },
   {
     "name": "Email Support Ticket",
@@ -62,10 +64,10 @@
     "url": "https://survey.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/survey.scrl.io.ico",
     "slug": "request-service-form-and-incident-report-form",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1289,
@@ -73,7 +75,9 @@
     "timeWeek": 1302,
     "timeMonth": 1289,
     "timeYear": 1289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-27": 1
+    }
   },
   {
     "name": "KYC System",
@@ -98,7 +102,7 @@
     "url": "https://signdoc.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/signdoc.scrl.io.ico",
     "slug": "document-signature-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -109,6 +113,8 @@
     "timeWeek": 1038,
     "timeMonth": 989,
     "timeYear": 989,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-27": 0
+    }
   }
 ]
