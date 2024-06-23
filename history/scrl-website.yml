@@ -1,7 +1,7 @@
 url: https://scrl.io
-status: up
-code: 200
-responseTime: 3645
-lastUpdated: 2024-06-22T23:12:42.689Z
+status: down
+code: 500
+responseTime: 469
+lastUpdated: 2024-06-23T00:41:45.566Z
 startTime: 2024-05-12T05:34:12.592Z
 generator: Upptime <https://github.com/upptime/upptime>
