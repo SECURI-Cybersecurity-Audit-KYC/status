@@ -98,19 +98,19 @@
     "url": "https://kyc.scrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/kyc.scrl.io.ico",
     "slug": "kyc-system",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4146,
-    "timeDay": 389,
-    "timeWeek": 3866,
-    "timeMonth": 3843,
-    "timeYear": 4146,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4174,
+    "timeDay": 2931,
+    "timeWeek": 4067,
+    "timeMonth": 3894,
+    "timeYear": 4174,
     "dailyMinutesDown": {
-      "2024-06-26": 0
+      "2024-06-26": 7
     }
   },
   {
